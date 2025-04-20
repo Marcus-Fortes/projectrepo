@@ -1,12 +1,12 @@
-# H1
+# README.md (This is Main Header)
 FileName: README.md
 
-## H2
+## Description (This is header 2)
 This is a readme file for Week 2 Assignment 2.
 
 Dated: 20 April 2025.
 
-### H3
+### Content (This is header 3)
 1. Emeritus Module 2
   * Git and GitHub Tutorial
 2. Content Control
